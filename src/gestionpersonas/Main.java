@@ -11,7 +11,7 @@ public class Main
         // Llamadas polimórficas al método mostrarInfo
         doctor.mostrarInfo();
         deportista.mostrarInfo();
-        //Finalizacion 2024
+        //Finalizacion  2222
     }
 }
 
