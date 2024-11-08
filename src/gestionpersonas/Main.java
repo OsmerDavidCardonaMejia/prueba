@@ -11,7 +11,7 @@ public class Main
         // Llamadas polimórficas al método mostrarInfo
         doctor.mostrarInfo();
         deportista.mostrarInfo();
-        //Tarea Grupal
+        //Tarea Grupal 2
     }
 }
 
